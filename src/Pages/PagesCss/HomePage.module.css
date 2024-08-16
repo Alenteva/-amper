@@ -1,0 +1,16 @@
+.HomeBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.Title {
+  color: brown;
+  margin: 0;
+  text-align: center;
+}
+.TitleH2 {
+  text-align: center;
+  color: #101828;
+}
